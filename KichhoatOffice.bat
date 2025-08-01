@@ -28,7 +28,7 @@ cls
 mode con: cols=55 lines=15
 echo                         *****
 echo ----------------- Kich hoat Ofice ---------------------
-echo ------------     Quang Son Computersssssssss     ---------------
+echo ------------     Quang Son Computerggggggggg     ---------------
 echo -------------------------------------------------------
 echo. 
 echo    [1] Go sach key Office cu
